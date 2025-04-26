@@ -1,0 +1,9 @@
+nav:
+  - "首页": index.md
+  - "VueJS": vue
+  - "TypeScript": ts
+  - "CSS": css
+  - "资源": res
+  - "*"
+  - "🔥 参考": reference
+  - "📝 其他": related.md
